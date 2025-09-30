@@ -1,5 +1,5 @@
 ---
-description: A world where builders are backing other builders
+description: A world where builders back other builders.
 ---
 
 # Back
