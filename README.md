@@ -8,7 +8,7 @@ description: A world where builders back other builders.
 
 BackMyBuild is a simple way for builders, creators, and indie hackers to share their work and get backed by their community. No setup, no friction — just enter your wallet address, ENS, Base name, or Farcaster handle, and your page is ready.
 
-Think of it like a **Web3-native Linktree**. Your profile automatically pulls on-chain data to showcase who you are and how people can support you. Visitors can send tips in any token from any chain, and everything is settled into $BACK on Base for you to receive seamlessly.
+Think of it like a **Web3-native Buymeacoffee**. Your profile automatically pulls on-chain data to showcase who you are and how people can support you. Visitors can send tips in any token from any chain, and everything is settled into $USDC on Base for you to receive seamlessly.
 
 ### Why BackMyBuild?
 
